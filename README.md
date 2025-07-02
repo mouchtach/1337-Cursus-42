@@ -28,7 +28,7 @@ All my projects from the 42 Network curriculum, organized by milestone.
 |:----------------:|:--------------------:|:--------------------------------------------------|:-------------------:|
 | [Push Swap](https://github.com/mouchtach/push_swap) | C                | Efficient sorting using stack operations           | ![125%](https://img.shields.io/badge/score-125%25-brightgreen)   |
 | [Pipex](https://github.com/mouchtach/pipex)         | C                | Simulate shell pipe behavior with processes        | ![125%](https://img.shields.io/badge/score-125%25-brightgreen)   |
-| [So Long](https://github.com/mouchtach/RUSH)        | C / MiniLibX     | 2D game using MiniLibX graphics library            | ![100%](https://img.shields.io/badge/score-100%25-brightgreen)   |
+| [So Long](https://github.com/mouchtach/so_long)        | C / MiniLibX     | 2D game using MiniLibX graphics library            | ![100%](https://img.shields.io/badge/score-100%25-brightgreen)   |
 | [Hotrace](https://github.com/mouchtach/rush)        | C / Rush project | High-performance key-value lookup (hash table)     | ![84%](https://img.shields.io/badge/score-84%25-brightgreen)   |
 
 ---
