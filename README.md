@@ -2,6 +2,8 @@
 
 All my projects from the 42 Network curriculum, organized by milestone.
 
+![Gameplay](graph.png)
+
 ---
 
 ## Milestone 1
