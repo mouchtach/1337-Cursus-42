@@ -39,4 +39,5 @@ All my projects from the 42 Network curriculum, organized by milestone.
 
 | Project    | Technologies | Description                       | Score / Status |
 |:----------:|:------------:|:---------------------------------|:--------------:|
-| [Minishell](https://github.com/mouchtach/minishell) | C / Shell scripting | Simple shell implementation          | TBD            |
+| [Minishell](https://github.com/mouchtach/minishell) | C / Shell scripting | Simple shell implementation          | ![100%](https://img.shields.io/badge/score-100%25-brightgreen)  |
+| [Philosophers](https://github.com/mouchtach/philosophers) | C             | Multithreaded simulation of the classic dining philosophers problem | ![125%](https://img.shields.io/badge/score-125%25-brightgreen)   |
