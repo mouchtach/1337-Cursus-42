@@ -69,7 +69,7 @@ All my projects from the 42 Network common core, organized by milestone.
 
 | Project | Technologies | Description | Score | Status |
 |:--|:--|:--|:-:|:-:|
-| [CPP Modules 05 to 09](https://github.com/mouchtach/CPP_Modules) | C++98, STL | Exceptions, casts, templates, containers, iterators, algorithms | ![100](https://img.shields.io/badge/-100%25-4b5563?style=flat-square) | ![Validated](https://img.shields.io/badge/-Validated-2e7d32?style=flat-square) |
+| [CPP Modules 05 to 09](https://github.com/mouchtach/CPP-Modules) | C++98, STL | Exceptions, casts, templates, containers, iterators, algorithms | ![100](https://img.shields.io/badge/-100%25-4b5563?style=flat-square) | ![Validated](https://img.shields.io/badge/-Validated-2e7d32?style=flat-square) |
 | [Inception](https://github.com/mouchtach/Inception) | Docker, Docker Compose, NGINX, WordPress, MariaDB | Full containerized infrastructure with SSL/TLS | ![125](https://img.shields.io/badge/-125%25-4b5563?style=flat-square) | ![Validated](https://img.shields.io/badge/-Validated-2e7d32?style=flat-square) |
 
 ## Milestone 7
