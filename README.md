@@ -62,7 +62,7 @@ All my projects from the 42 Network common core, organized by milestone.
 | Project | Technologies | Description | Score | Status |
 |:--|:--|:--|:-:|:-:|
 | [NetPractice](https://github.com/mouchtach/NetPractice) | TCP/IP, Networking | 10 levels of subnetting, routing and gateway configuration | ![100](https://img.shields.io/badge/-100%25-4b5563?style=flat-square) | ![Validated](https://img.shields.io/badge/-Validated-2e7d32?style=flat-square) |
-| [CPP Modules 00 to 04](https://github.com/mouchtach/CPP_Modules) | C++98, OOP | Classes, references, inheritance, polymorphism, abstract classes | ![100](https://img.shields.io/badge/-100%25-4b5563?style=flat-square) | ![Validated](https://img.shields.io/badge/-Validated-2e7d32?style=flat-square) |
+| [CPP Modules 00 to 04](https://github.com/mouchtach/CPP-Modules) | C++98, OOP | Classes, references, inheritance, polymorphism, abstract classes | ![100](https://img.shields.io/badge/-100%25-4b5563?style=flat-square) | ![Validated](https://img.shields.io/badge/-Validated-2e7d32?style=flat-square) |
 | [cub3d](https://github.com/mouchtach/cub3d) | C, MiniLibX, Ray-casting | First-person maze view inspired by Wolfenstein 3D | ![120](https://img.shields.io/badge/-120%25-4b5563?style=flat-square) | ![Validated](https://img.shields.io/badge/-Validated-2e7d32?style=flat-square) |
 
 ## Milestone 6
